@@ -1,0 +1,5 @@
+{
+  "name": "哪有賭徒天天輸🀄️",
+  "description": "麻將輔助與配對 APP，包含聽牌計算機、戰況輸贏紀錄、開桌與報名系統、評價與信用系統。",
+  "requestFramePermissions": ["geolocation"]
+}
